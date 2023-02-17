@@ -1,1 +1,0 @@
-if("undefined"==typeof noGlobal||!0!=noGlobal){var i;new Set(["479c28c3","83b86112"]).has(dmAPI.getSiteName())||(dmAPI.loadScript("https://iol-website.italiaonline.it/script/modules/cookie-privacy.min.js"),dmAPI.loadScript("https://iol-website.italiaonline.it/script/modules/services.min.js"))}
